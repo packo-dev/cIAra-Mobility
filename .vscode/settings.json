@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PostgreSQL",
+            "database": "ciara_mobility",
+            "username": "postgres",
+            "password": ""
+        }
+    ],
+    "sqltools.format": {
+        "linesBetweenQueries": 2
+    },
+    "sqltools.autoOpenSessionFiles": false,
+    "sqltools.results.reuseTabs": "connection"
+}
